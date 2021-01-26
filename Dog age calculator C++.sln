@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dog age calculator C++", "Dog age calculator C++.vcxproj", "{92731910-7324-4A37-8D52-3755714555CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92731910-7324-4A37-8D52-3755714555CD}.Debug|x64.ActiveCfg = Debug|x64
+		{92731910-7324-4A37-8D52-3755714555CD}.Debug|x64.Build.0 = Debug|x64
+		{92731910-7324-4A37-8D52-3755714555CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{92731910-7324-4A37-8D52-3755714555CD}.Debug|x86.Build.0 = Debug|Win32
+		{92731910-7324-4A37-8D52-3755714555CD}.Release|x64.ActiveCfg = Release|x64
+		{92731910-7324-4A37-8D52-3755714555CD}.Release|x64.Build.0 = Release|x64
+		{92731910-7324-4A37-8D52-3755714555CD}.Release|x86.ActiveCfg = Release|Win32
+		{92731910-7324-4A37-8D52-3755714555CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0744DC-57D8-415D-8D51-E21D3F615170}
+	EndGlobalSection
+EndGlobal
